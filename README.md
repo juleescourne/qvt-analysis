@@ -1,5 +1,11 @@
 # QVTi — Quality of Work Life Analytics
 
+[![CI](https://github.com/juleescourne/qvt-analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/juleescourne/qvt-analysis/actions/workflows/ci.yml)
+![Vue 3](https://img.shields.io/badge/Vue-3.x-42b883)
+[![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
+
+> Part of my Data portfolio: [juleescourne.github.io/portfolio-data-analyst](https://juleescourne.github.io/portfolio-data-analyst/)
+
 Interactive web application for exploring **quality-of-work-life survey data**. The project transforms survey responses into visual summaries and provides an experimental **Chernoff-face visualization** to compare multidimensional observations.
 
 > **Public-repository note:** the original workplace survey datasets have deliberately been removed from this repository. They contained demographic and organisational attributes that could create privacy and re-identification risks. Synthetic example files are provided instead.
