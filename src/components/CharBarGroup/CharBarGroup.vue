@@ -1,12 +1,12 @@
 <template>
   <div class="flex-container" :id="this.$props.category">
-  <CharBarV2 v-for="questionId in questionIDArray" :key="questionId" :question-i-d="questionId" :csv="this.$props.csv"/>
+  <CharBarV2 v-for="questionId in questionIDArray" :key="questionId" :question-i-d="questionId"/>
 </div>
 </template>
 
 <script>
 import CharBarV2 from "@/components/ChartBar/CharBarV2";
-import { getIndexResponseByCategory } from '@/utils/parser.utils'
+import { getQuestionIDByCategory } from '@/utils/parser.utils'
 
 export default {
   name: 'CharBarGroup',
@@ -22,10 +22,10 @@ export default {
   mounted () {
     if (typeof this.$props.category === 'object') {
       this.$props.category.forEach(category => {
-        this.questionIDArray = this.questionIDArray.concat(getIndexResponseByCategory( category, this.$props.csv ))
+        this.questionIDArray = this.questionIDArray.concat(getQuestionIDByCategory( category, this.$props.csv ))
       })
     } else {
-      this.questionIDArray = getIndexResponseByCategory( this.$props.category, this.$props.csv )
+      this.questionIDArray = getQuestionIDByCategory( this.$props.category, this.$props.csv )
       
     }
     const mean = this.questionIDArray.filter((id) => id.includes('MOY'))[0]
