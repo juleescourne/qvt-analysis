@@ -2,7 +2,7 @@ const getResultPerQuestion = (column) => {
   const counts = [0, 0, 0, 0, 0]
 
   for (const cell of column) {
-    const response = Number.parseInt(cell, 10)
+    const response = Number(String(cell).trim().replace(',', '.'))
     if (Number.isInteger(response) && response >= 1 && response <= 5) {
       counts[response - 1]++
     }

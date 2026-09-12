@@ -129,9 +129,9 @@ une ligne chacun, pour la vue Chernoff.
   = 16`) : un export de structure différente décalerait la détection des catégories.
 - **625 images PNG pré-générées** (7,5 Mo) pour couvrir les combinaisons de traits.
   Les générer en SVG diviserait le poids du dépôt par vingt.
-- **Aucun test unitaire** : l'intégration continue se limite au lint et au build,
-  alors que le parseur et les agrégations sont des fonctions pures, facilement
-  testables.
+- **Tests ciblés** : quatre tests couvrent les filtres croisés, les valeurs invalides
+  et la cohérence du jeu synthétique. La couverture ne constitue pas une validation
+  psychométrique du questionnaire.
 
 Détail dans [ARCHITECTURE.md](ARCHITECTURE.md#7-limites-connues).
 
@@ -149,3 +149,19 @@ front-end.
 ## Licence
 
 [MIT](LICENSE) — Jules Courné
+
+## Démo : lecture guidée
+
+- Jeu reproductible de 240 profils fictifs, quatre services et 24 questions.
+- Cliquer sur une barre applique un filtre partagé à tous les graphiques ; les filtres
+  se combinent par intersection et survivent à la navigation vers les visages.
+- Vert pétrole : distribution de la sélection ; gris : population complète. Les
+  pourcentages utilisent uniquement les réponses valides de chaque question.
+- Chernoff : quatre sélecteurs, aperçus 1–5, profils détaillés, grille paginée et
+  projection optionnelle. Les axes du jeu d'exemple sont des scores centrés avec
+  un léger décalage, pas une ACP.
+
+Régénérer les données : `python scripts/generate_survey_demo.py`.
+Vérifier la sélection : `node --test tests/survey.test.js`.
+Les libellés et corrélations simulées sont pédagogiques ; ce questionnaire n'est
+pas une échelle validée et ne décrit aucune organisation réelle.
