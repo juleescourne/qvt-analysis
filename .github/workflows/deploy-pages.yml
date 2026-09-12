@@ -35,6 +35,9 @@ jobs:
       - name: Lint
         run: npm run lint -- --no-fix
 
+      - name: Check survey filtering
+        run: node --test tests/survey.test.mjs
+
       - name: Build
         run: npm run build
 

@@ -1,31 +1,241 @@
 respondent_id,team,site,contract,seniority,role_level,remote_days,age_band,schedule,department,manager,workload_band,training,mobility,sector,service_size,PGC1,PGC2,PGC3,MOY_PGC,EVPVP1,EVPVP2,EVPVP3,MOY_EVPVP,RECO1,RECO2,RECO3,MOY_RECO,COM1,COM2,COM3,MOY_COM,JUST1,JUST2,JUST3,MOY_JUST,ENG1,ENG2,ENG3,MOY_ENG,CONF1,CONF2,CONF3,MOY_CONF,EQUI1,EQUI2,EQUI3,MOY_EQUI
-R001,Team 1,Demo site,CDD,1,Employee,0,20-29,Day,Operations,Yes,Low,Yes,No,Demo,5,3,2,2,2.33,2,3,3,2.67,4,2,3,3.00,2,3,3,2.67,2,3,4,3.00,3,3,4,3.33,4,2,4,3.33,4,3,3,3.33
-R002,Team 2,Demo site,CDI,2,Specialist,1,30-39,Flexible,IT,No,Medium,Yes,No,Demo,6,4,2,2,2.67,2,4,3,3.00,4,4,3,3.67,4,3,3,3.33,4,4,4,4.00,4,4,2,3.33,3,3,2,2.67,3,2,3,2.67
-R003,Team 3,Demo site,CDI,3,Manager,2,40-49,Day,Support,No,High,Yes,No,Demo,7,3,3,3,3.00,2,3,4,3.00,4,4,2,3.33,4,3,3,3.33,5,4,4,4.33,4,4,4,4.00,3,2,3,2.67,3,3,4,3.33
-R004,Team 4,Demo site,CDD,4,Employee,0,50+,Flexible,Sales,No,Low,Yes,No,Demo,8,4,3,4,3.67,3,4,3,3.33,3,3,4,3.33,3,4,4,3.67,3,3,5,3.67,3,2,2,2.33,2,4,4,3.33,3,2,3,2.67
-R005,Team 1,Demo site,CDI,5,Specialist,1,20-29,Day,Operations,No,Medium,Yes,No,Demo,9,4,3,4,3.67,4,2,4,3.33,4,3,3,3.33,4,2,3,3.00,3,4,4,3.67,3,3,2,2.67,4,4,3,3.67,3,3,2,2.67
-R006,Team 2,Demo site,CDI,6,Manager,2,30-39,Flexible,IT,Yes,High,Yes,No,Demo,10,4,3,4,3.67,3,2,3,2.67,2,4,4,3.33,4,3,2,3.00,4,4,2,3.33,3,2,4,3.00,4,2,3,3.00,3,2,4,3.00
-R007,Team 3,Demo site,CDD,7,Employee,0,40-49,Day,Support,No,Low,Yes,No,Demo,11,3,3,3,3.00,4,3,3,3.33,5,4,3,4.00,3,2,3,2.67,3,3,2,2.67,2,2,3,2.33,2,4,4,3.33,2,2,3,2.33
-R008,Team 4,Demo site,CDI,8,Specialist,1,50+,Flexible,Sales,No,Medium,Yes,No,Demo,12,3,3,4,3.33,4,3,4,3.67,4,3,2,3.00,3,3,3,3.00,4,3,4,3.67,2,3,2,2.33,3,2,2,2.33,2,2,2,2.00
-R009,Team 1,Demo site,CDI,1,Manager,2,20-29,Day,Operations,No,High,Yes,No,Demo,13,3,4,3,3.33,4,3,2,3.00,4,4,4,4.00,4,4,2,3.33,3,2,3,2.67,2,2,4,2.67,2,3,2,2.33,2,3,3,2.67
-R010,Team 2,Demo site,CDD,2,Employee,0,30-39,Flexible,IT,No,Low,Yes,No,Demo,14,3,4,2,3.00,3,4,3,3.33,3,4,2,3.00,3,3,4,3.33,2,4,2,2.67,2,3,3,2.67,2,1,3,2.00,2,2,2,2.00
-R011,Team 3,Demo site,CDI,3,Specialist,1,40-49,Day,Support,Yes,Medium,Yes,No,Demo,15,3,3,3,3.00,4,2,3,3.00,2,3,3,2.67,2,2,3,2.33,1,2,4,2.33,3,1,2,2.00,2,3,3,2.67,3,2,1,2.00
-R012,Team 4,Demo site,CDI,4,Manager,2,50+,Flexible,Sales,No,High,Yes,No,Demo,16,4,3,3,3.33,4,3,2,3.00,3,2,3,2.67,4,2,2,2.67,1,2,2,1.67,2,3,1,2.00,2,2,2,2.00,3,3,1,2.33
-R013,Team 1,Demo site,CDD,5,Employee,0,20-29,Day,Operations,No,Low,Yes,No,Demo,17,3,2,2,2.33,3,3,2,2.67,3,3,2,2.67,1,1,3,1.67,3,2,3,2.67,2,1,1,1.33,2,3,3,2.67,3,3,1,2.33
-R014,Team 2,Demo site,CDI,6,Specialist,1,30-39,Flexible,IT,No,Medium,Yes,No,Demo,18,2,2,3,2.33,3,2,3,2.67,1,3,3,2.33,3,3,3,3.00,1,3,2,2.00,3,3,3,3.00,3,1,3,2.33,1,3,3,2.33
-R015,Team 3,Demo site,CDI,7,Manager,2,40-49,Day,Support,No,High,Yes,No,Demo,19,2,3,2,2.33,2,3,2,2.33,1,1,2,1.33,3,3,2,2.67,2,2,3,2.33,2,3,1,2.00,3,1,3,2.33,2,1,2,1.67
-R016,Team 4,Demo site,CDD,8,Employee,0,50+,Flexible,Sales,Yes,Low,Yes,No,Demo,5,3,2,3,2.67,2,2,2,2.00,1,3,1,1.67,3,2,3,2.67,3,2,2,2.33,1,2,2,1.67,2,3,3,2.67,2,2,2,2.00
-R017,Team 1,Demo site,CDI,1,Specialist,1,20-29,Day,Operations,No,Medium,Yes,No,Demo,6,2,2,1,1.67,2,3,2,2.33,3,2,2,2.33,2,1,1,1.33,2,2,2,2.00,2,2,1,1.67,2,3,3,2.67,2,1,2,1.67
-R018,Team 2,Demo site,CDI,2,Manager,2,30-39,Flexible,IT,No,High,Yes,No,Demo,7,2,2,3,2.33,3,2,1,2.00,1,1,1,1.00,2,3,1,2.00,2,2,1,1.67,3,2,2,2.33,3,1,3,2.33,3,2,2,2.33
-R019,Team 3,Demo site,CDD,3,Employee,0,40-49,Day,Support,No,Low,Yes,No,Demo,8,1,3,2,2.00,1,1,3,1.67,2,3,2,2.33,3,2,3,2.67,3,2,3,2.67,2,3,2,2.33,3,3,2,2.67,2,2,3,2.33
-R020,Team 4,Demo site,CDI,4,Specialist,1,50+,Flexible,Sales,No,Medium,Yes,No,Demo,9,3,2,2,2.33,1,1,2,1.33,2,2,2,2.00,1,2,3,2.00,3,1,2,2.00,3,2,2,2.33,2,4,3,3.00,3,4,3,3.33
-R021,Team 1,Demo site,CDI,5,Manager,2,20-29,Day,Operations,Yes,High,Yes,No,Demo,10,2,1,2,1.67,3,3,3,3.00,2,3,2,2.33,3,2,2,2.33,2,1,2,1.67,3,2,2,2.33,3,2,3,2.67,2,3,3,2.67
-R022,Team 2,Demo site,CDD,6,Employee,0,30-39,Flexible,IT,No,Low,Yes,No,Demo,11,1,2,1,1.33,2,1,2,1.67,2,2,3,2.33,2,3,3,2.67,2,2,2,2.00,3,4,2,3.00,3,4,3,3.33,4,4,2,3.33
-R023,Team 3,Demo site,CDI,7,Specialist,1,40-49,Day,Support,No,Medium,Yes,No,Demo,12,1,1,1,1.00,3,2,2,2.33,3,3,2,2.67,3,3,2,2.67,4,4,2,3.33,2,3,3,2.67,4,3,4,3.67,2,4,4,3.33
-R024,Team 4,Demo site,CDI,8,Manager,2,50+,Flexible,Sales,No,High,Yes,No,Demo,13,1,3,3,2.33,3,2,4,3.00,3,2,3,2.67,3,3,2,2.67,4,4,2,3.33,4,3,4,3.67,4,3,4,3.67,4,3,4,3.67
-R025,Team 1,Demo site,CDD,1,Employee,0,20-29,Day,Operations,No,Low,Yes,No,Demo,14,3,2,2,2.33,3,2,4,3.00,4,2,4,3.33,2,3,3,2.67,3,2,4,3.00,3,3,4,3.33,3,4,4,3.67,3,2,4,3.00
-R026,Team 2,Demo site,CDI,2,Specialist,1,30-39,Flexible,IT,Yes,Medium,Yes,No,Demo,15,2,3,3,2.67,3,3,3,3.00,3,4,2,3.00,2,4,3,3.00,3,3,3,3.00,3,4,3,3.33,4,3,3,3.33,2,3,2,2.33
-R027,Team 3,Demo site,CDI,3,Manager,2,40-49,Day,Support,No,High,Yes,No,Demo,16,3,3,2,2.67,2,3,4,3.00,4,3,3,3.33,2,3,3,2.67,3,2,3,2.67,3,5,4,4.00,4,2,4,3.33,3,4,4,3.67
-R028,Team 4,Demo site,CDD,4,Employee,0,50+,Flexible,Sales,No,Low,Yes,No,Demo,17,3,3,2,2.67,2,4,3,3.00,4,3,2,3.00,4,2,3,3.00,4,3,5,4.00,2,4,4,3.33,4,3,3,3.33,3,3,4,3.33
-R029,Team 1,Demo site,CDI,5,Specialist,1,20-29,Day,Operations,No,Medium,Yes,No,Demo,18,4,3,3,3.33,4,4,4,4.00,3,3,4,3.33,3,3,2,2.67,2,3,4,3.00,3,3,4,3.33,4,3,4,3.67,4,4,3,3.67
-R030,Team 2,Demo site,CDI,6,Manager,2,30-39,Flexible,IT,No,High,Yes,No,Demo,19,4,4,3,3.67,3,4,4,3.67,4,2,3,3.00,3,4,4,3.67,3,2,4,3.00,4,4,3,3.67,3,2,2,2.33,3,3,2,2.67
+SYN-001,Équipe 1,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,2,2,2,2.00,4,3,4,3.67,4,4,4,4.00,3,3,3,3.00,4,4,4,4.00,3,5,5,4.33,3,4,4,3.67
+SYN-002,Équipe 1,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,4,4,4,4.00,2,3,1,2.00,4,3,3,3.33,4,3,3,3.33,,2,3,2.50,3,4,2,3.00,2,2,3,2.33,3,3,2,2.67
+SYN-003,Équipe 1,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,3,4,3.33,4,3,2,3.00,3,4,3,3.33,3,3,2,2.67,4,2,4,3.33,4,5,4,4.33,2,2,3,2.33,2,3,2,2.33
+SYN-004,Équipe 1,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,2,3,2,2.33,3,2,2,2.33,5,4,3,4.00,2,2,3,2.33,3,3,4,3.33,3,3,3,3.00,2,3,2,2.33,3,3,3,3.00
+SYN-005,Équipe 1,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,2,3,2.67,,1,1,1.00,3,1,3,2.33,3,2,3,2.67,2,2,1,1.67,3,2,,2.50,1,3,2,2.00,4,3,1,2.67
+SYN-006,Équipe 1,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,2,1,2,1.67,2,3,3,2.67,3,3,4,3.33,2,3,2,2.33,2,2,2,2.00,3,3,3,3.00,4,4,4,4.00
+SYN-007,Équipe 1,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,2,3,2,2.33,4,4,4,4.00,4,5,4,4.33,3,3,3,3.00,4,4,4,4.00,3,3,3,3.00,4,4,4,4.00
+SYN-008,Équipe 1,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,,2,2.50,4,2,3,3.00,4,3,4,3.67,4,4,4,4.00,5,4,5,4.67,4,5,3,4.00,4,4,4,4.00,5,4,5,4.67
+SYN-009,Équipe 1,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,2,1,3,2.00,3,2,2,2.33,3,2,2,2.33,4,5,3,4.00,3,3,,3.00,2,2,3,2.33,4,3,3,3.33,4,4,4,4.00
+SYN-010,Équipe 1,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,4,4,4,4.00,5,5,4,4.67,4,4,4,4.00,4,5,5,4.67,5,5,5,5.00,4,4,3,3.67,4,5,4,4.33,4,5,4,4.33
+SYN-011,Équipe 1,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,2,1,3,2.00,1,1,2,1.33,4,3,3,3.33,3,3,3,3.00,3,2,4,3.00,4,5,3,4.00,3,3,3,3.00,3,3,3,3.00
+SYN-012,Équipe 1,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,2,4,3,3.00,2,4,3,3.00,4,3,4,3.67,4,4,4,4.00,4,4,4,4.00,,3,3,3.00,5,5,5,5.00,3,4,4,3.67
+SYN-013,Équipe 1,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,1,1,1,1.00,1,1,1,1.00,2,2,1,1.67,,1,2,1.50,3,2,1,2.00,2,3,3,2.67,4,2,1,2.33,1,3,2,2.00
+SYN-014,Équipe 1,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,4,3,3,3.33,2,3,3,2.67,1,3,4,2.67,3,2,3,2.67,3,3,4,3.33,4,4,4,4.00,3,3,3,3.00
+SYN-015,Équipe 1,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,4,2,3.00,2,3,3,2.67,2,2,2,2.00,3,2,3,2.67,4,3,4,3.67,3,1,2,2.00,4,3,3,3.33,2,3,3,2.67
+SYN-016,Équipe 1,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,4,2,3,3.00,4,5,4,4.33,4,4,3,3.67,3,3,4,3.33,4,4,,4.00,5,4,4,4.33,4,5,4,4.33
+SYN-017,Équipe 1,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,4,3,3,3.33,2,2,2,2.00,2,,3,2.50,3,3,2,2.67,3,3,3,3.00,3,3,3,3.00,4,3,3,3.33,5,3,4,4.00
+SYN-018,Équipe 1,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,2,3,2.67,1,1,1,1.00,3,3,2,2.67,3,3,3,3.00,2,3,2,2.33,3,4,4,3.67,2,2,2,2.00,2,3,3,2.67
+SYN-019,Équipe 1,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,1,4,2.67,2,3,,2.50,3,3,3,3.00,3,3,2,2.67,4,3,3,3.33,4,5,4,4.33,5,4,4,4.33,4,3,4,3.67
+SYN-020,Équipe 1,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,2,2,2.33,2,2,1,1.67,2,,2,2.00,3,,2,2.50,2,2,2,2.00,2,2,3,2.33,3,2,2,2.33,3,2,3,2.67
+SYN-021,Équipe 2,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,4,3,3.33,2,3,1,2.00,3,4,3,3.33,5,4,3,4.00,4,3,4,3.67,5,3,4,4.00,5,4,4,4.33,3,3,4,3.33
+SYN-022,Équipe 2,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,4,,4,4.00,3,2,3,2.67,4,5,5,4.67,3,3,2,2.67,3,3,3,3.00,5,3,4,4.00,5,4,3,4.00,3,4,4,3.67
+SYN-023,Équipe 2,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,4,3,3,3.33,4,3,3,3.33,4,5,4,4.33,2,3,3,2.67,5,4,5,4.67,4,4,4,4.00,4,5,5,4.67,4,5,,4.50
+SYN-024,Équipe 2,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,5,4,5,4.67,3,5,3,3.67,4,5,5,4.67,5,4,4,4.33,5,4,4,4.33,,4,4,4.00,5,5,5,5.00
+SYN-025,Équipe 2,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,4,4,3.67,3,3,3,3.00,3,4,4,3.67,5,4,4,4.33,3,3,4,3.33,3,5,4,4.00,4,4,4,4.00,5,5,4,4.67
+SYN-026,Équipe 2,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,2,5,3.33,2,1,2,1.67,2,4,3,3.00,4,3,4,3.67,2,4,3,3.00,3,3,2,2.67,3,3,3,3.00,4,3,3,3.33
+SYN-027,Équipe 2,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,2,2,2.33,1,3,2,2.00,3,2,3,2.67,4,3,4,3.67,4,3,3,3.33,4,,3,3.50,3,2,2,2.33,2,2,1,1.67
+SYN-028,Équipe 2,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,2,3,3,2.67,4,3,2,3.00,4,3,4,3.67,3,3,4,3.33,4,4,4,4.00,4,3,3,3.33,3,4,3,3.33
+SYN-029,Équipe 2,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,4,4,4,4.00,2,2,,2.00,3,,2,2.50,3,4,3,3.33,4,3,4,3.67,4,3,4,3.67,4,3,3,3.33,3,3,3,3.00
+SYN-030,Équipe 2,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,2,4,4,3.33,2,3,3,2.67,3,5,3,3.67,4,5,5,4.67,3,5,4,4.00,2,3,4,3.00,4,5,5,4.67,4,4,4,4.00
+SYN-031,Équipe 2,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,2,2,2,2.00,1,1,2,1.33,3,3,2,2.67,3,2,2,2.33,2,3,3,2.67,2,3,2,2.33,3,4,3,3.33,1,,2,1.50
+SYN-032,Équipe 2,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,3,3,2,2.67,3,3,4,3.33,4,3,3,3.33,3,4,,3.50,2,2,3,2.33,3,4,3,3.33,3,2,2,2.33
+SYN-033,Équipe 2,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,4,2,,3.00,2,3,3,2.67,5,4,4,4.33,3,4,4,3.67,3,3,3,3.00,1,3,4,2.67,3,3,3,3.00,4,3,3,3.33
+SYN-034,Équipe 2,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,2,3,2.67,3,4,3,3.33,4,4,4,4.00,3,4,3,3.33,3,4,4,3.67,4,4,4,4.00,4,2,,3.00,2,3,4,3.00
+SYN-035,Équipe 2,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,4,5,5,4.67,4,3,5,4.00,4,5,4,4.33,4,4,3,3.67,4,5,4,4.33,4,4,5,4.33,4,5,4,4.33,4,4,4,4.00
+SYN-036,Équipe 2,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,3,4,3.33,2,2,2,2.00,3,4,3,3.33,4,4,4,4.00,4,3,3,3.33,4,4,3,3.67,5,4,5,4.67,4,3,4,3.67
+SYN-037,Équipe 2,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,4,4,4,4.00,2,4,4,3.33,5,3,4,4.00,5,5,5,5.00,5,3,5,4.33,5,5,5,5.00,4,4,4,4.00,4,4,5,4.33
+SYN-038,Équipe 2,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,4,4,4,4.00,3,5,4,4.00,4,5,5,4.67,4,4,5,4.33,4,5,5,4.67,5,5,5,5.00,4,3,4,3.67,4,5,5,4.67
+SYN-039,Équipe 2,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,2,2,1,1.67,1,2,3,2.00,3,2,3,2.67,2,1,,1.50,2,3,3,2.67,,4,4,4.00,3,3,4,3.33,2,2,4,2.67
+SYN-040,Équipe 2,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,2,2,2.33,2,1,2,1.67,1,3,,2.00,3,3,4,3.33,4,3,3,3.33,2,3,2,2.33,3,3,4,3.33,3,3,3,3.00
+SYN-041,Équipe 3,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,2,2,2,2.00,4,3,2,3.00,3,3,3,3.00,3,4,3,3.33,3,4,3,3.33,2,,4,3.00,4,5,3,4.00,3,3,4,3.33
+SYN-042,Équipe 3,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,1,2,2.00,2,3,1,2.00,3,3,3,3.00,3,,4,3.50,2,1,1,1.33,,1,4,2.50,2,1,1,1.33,2,3,2,2.33
+SYN-043,Équipe 3,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,2,2,2.33,2,1,1,1.33,2,3,3,2.67,2,2,2,2.00,3,4,4,3.67,3,2,2,2.33,3,3,4,3.33,3,3,3,3.00
+SYN-044,Équipe 3,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,2,1,2,1.67,1,2,2,1.67,4,4,3,3.67,3,2,2,2.33,4,3,3,3.33,3,3,3,3.00,2,3,3,2.67,2,2,3,2.33
+SYN-045,Équipe 3,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,2,3,2,2.33,3,2,3,2.67,3,3,4,3.33,3,3,2,2.67,3,3,2,2.67,4,4,5,4.33,4,4,3,3.67,4,3,3,3.33
+SYN-046,Équipe 3,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,2,1,3,2.00,3,1,1,1.67,3,3,2,2.67,3,3,3,3.00,4,3,1,2.67,3,2,3,2.67,2,2,2,2.00,3,2,3,2.67
+SYN-047,Équipe 3,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,2,3,3,2.67,3,3,3,3.00,2,2,2,2.00,5,3,3,3.67,4,4,5,4.33,3,3,4,3.33,3,3,4,3.33,3,2,2,2.33
+SYN-048,Équipe 3,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,2,2,3,2.33,3,3,3,3.00,4,2,2,2.67,4,3,2,3.00,2,3,3,2.67,3,3,4,3.33,3,2,3,2.67
+SYN-049,Équipe 3,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,3,4,3.33,3,4,3,3.33,4,4,5,4.33,3,4,5,4.00,4,5,5,4.67,5,5,5,5.00,5,,3,4.00,4,5,4,4.33
+SYN-050,Équipe 3,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,5,3,4,4.00,4,3,4,3.67,5,4,4,4.33,3,4,5,4.00,4,4,4,4.00,5,5,4,4.67,4,4,4,4.00,5,5,4,4.67
+SYN-051,Équipe 3,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,1,2,2,1.67,3,4,2,3.00,1,3,3,2.33,3,2,4,3.00,2,3,2,2.33,4,3,5,4.00,2,4,3,3.00,3,3,2,2.67
+SYN-052,Équipe 3,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,2,3,2,2.33,3,2,2,2.33,2,3,2,2.33,2,4,3,3.00,3,3,2,2.67,3,3,3,3.00,2,4,4,3.33,3,2,3,2.67
+SYN-053,Équipe 3,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,4,4,3,3.67,2,4,3,3.00,4,4,3,3.67,4,3,5,4.00,4,4,5,4.33,4,4,2,3.33,5,4,4,4.33,5,4,4,4.33
+SYN-054,Équipe 3,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,2,3,3,2.67,1,1,1,1.00,1,,3,2.00,3,5,4,4.00,4,3,4,3.67,3,3,3,3.00,3,2,,2.50,4,4,5,4.33
+SYN-055,Équipe 3,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,2,3,2.67,3,3,2,2.67,3,2,3,2.67,4,4,5,4.33,2,3,3,2.67,3,,3,3.00,4,3,3,3.33,2,2,4,2.67
+SYN-056,Équipe 3,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,2,3,2,2.33,1,1,1,1.00,1,2,2,1.67,3,3,,3.00,3,4,3,3.33,2,2,2,2.00,3,3,2,2.67,2,2,1,1.67
+SYN-057,Équipe 3,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,3,2,2.67,,4,2,3.00,2,2,2,2.00,3,3,3,3.00,3,4,5,4.00,4,3,3,3.33,1,5,4,3.33,3,3,2,2.67
+SYN-058,Équipe 3,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,3,3,4,3.33,3,3,2,2.67,4,3,3,3.33,3,4,4,3.67,3,3,3,3.00,3,3,3,3.00,4,5,4,4.33
+SYN-059,Équipe 3,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,4,,3.50,2,2,3,2.33,5,5,4,4.67,3,3,4,3.33,3,4,5,4.00,4,3,3,3.33,5,4,3,4.00,4,3,5,4.00
+SYN-060,Équipe 3,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Opérations,Non,Simulée,Oui,Non,Fictif,60,3,3,2,2.67,,3,2,2.50,2,3,3,2.67,4,5,3,4.00,3,4,4,3.67,3,3,3,3.00,4,4,4,4.00,5,5,5,5.00
+SYN-061,Équipe 4,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,4,3,3,3.33,5,5,,5.00,5,3,4,4.00,5,4,3,4.00,4,4,4,4.00,3,4,4,3.67,5,4,4,4.33,5,,4,4.50
+SYN-062,Équipe 4,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,5,4,4.00,3,4,2,3.00,2,3,2,2.33,4,3,3,3.33,3,4,4,3.67,3,4,3,3.33,3,5,3,3.67,4,3,,3.50
+SYN-063,Équipe 4,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,5,4,4,4.33,3,4,4,3.67,4,2,3,3.00,2,3,3,2.67,4,4,5,4.33,3,2,2,2.33,5,4,4,4.33,4,4,4,4.00
+SYN-064,Équipe 4,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,5,5,4,4.67,3,5,3,3.67,4,3,3,3.33,5,4,3,4.00,4,4,3,3.67,2,,4,3.00,3,4,4,3.67,4,3,4,3.67
+SYN-065,Équipe 4,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,2,3,3,2.67,2,2,3,2.33,2,3,3,2.67,3,2,2,2.33,4,3,4,3.67,3,3,2,2.67,3,4,3,3.33,4,3,3,3.33
+SYN-066,Équipe 4,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,3,4,5,4.00,3,3,3,3.00,3,4,3,3.33,3,3,3,3.00,3,3,5,3.67,4,4,3,3.67,4,3,4,3.67
+SYN-067,Équipe 4,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,5,3,3.67,4,5,3,4.00,3,2,3,2.67,2,3,3,2.67,3,4,3,3.33,3,4,3,3.33,4,3,3,3.33,3,4,4,3.67
+SYN-068,Équipe 4,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,4,3,3.33,5,3,4,4.00,4,3,3,3.33,3,3,2,2.67,4,5,4,4.33,3,3,3,3.00,5,4,4,4.33,3,4,2,3.00
+SYN-069,Équipe 4,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,5,4,4,4.33,4,4,4,4.00,2,3,4,3.00,3,5,,4.00,4,4,4,4.00,4,3,5,4.00,4,5,4,4.33,5,4,5,4.67
+SYN-070,Équipe 4,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,3,2,2.67,2,2,2,2.00,1,2,2,1.67,1,1,2,1.33,3,3,3,3.00,2,1,,1.50,3,2,3,2.67,2,3,2,2.33
+SYN-071,Équipe 4,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,,3,4,3.50,3,3,2,2.67,1,1,2,1.33,3,2,2,2.33,3,3,3,3.00,2,1,2,1.67,,3,3,3.00,3,1,3,2.33
+SYN-072,Équipe 4,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,4,5,3,4.00,2,3,3,2.67,2,3,3,2.67,3,3,3,3.00,4,3,3,3.33,4,3,4,3.67,3,2,3,2.67,3,3,3,3.00
+SYN-073,Équipe 4,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,5,5,4,4.67,4,5,4,4.33,5,2,3,3.33,3,3,2,2.67,4,4,4,4.00,3,,4,3.50,5,4,4,4.33,5,3,5,4.33
+SYN-074,Équipe 4,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,2,3,2.67,3,4,3,3.33,3,2,3,2.67,2,1,2,1.67,4,4,4,4.00,4,3,3,3.33,3,5,3,3.67,4,4,4,4.00
+SYN-075,Équipe 4,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,4,4,3,3.67,5,4,4,4.33,2,2,3,2.33,,3,3,3.00,3,4,3,3.33,3,3,2,2.67,5,5,5,5.00,4,3,4,3.67
+SYN-076,Équipe 4,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,4,4,4,4.00,4,5,5,4.67,4,4,5,4.33,4,3,4,3.67,4,3,4,3.67,4,4,5,4.33,5,4,5,4.67,5,4,4,4.33
+SYN-077,Équipe 4,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,4,3,3.33,4,,4,4.00,2,3,2,2.33,2,3,3,2.67,5,5,5,5.00,4,4,2,3.33,4,4,2,3.33,4,2,3,3.00
+SYN-078,Équipe 4,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,3,4,3.33,2,2,3,2.33,2,3,3,2.67,4,3,3,3.33,3,3,4,3.33,3,3,3,3.00,3,5,3,3.67,3,2,3,2.67
+SYN-079,Équipe 4,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,4,3,2,3.00,3,4,3,3.33,4,2,3,3.00,2,2,2,2.00,3,3,4,3.33,2,2,3,2.33,3,3,2,2.67,3,3,3,3.00
+SYN-080,Équipe 4,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,5,3,3,3.67,4,5,5,4.67,3,4,4,3.67,3,4,5,4.00,5,5,4,4.67,3,4,4,3.67,4,4,5,4.33,5,4,4,4.33
+SYN-081,Équipe 5,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,5,4,5,4.67,4,3,4,3.67,5,3,2,3.33,3,3,3,3.00,4,5,4,4.33,4,3,3,3.33,4,3,2,3.00,4,4,5,4.33
+SYN-082,Équipe 5,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,4,3,3,3.33,4,4,3,3.67,2,1,2,1.67,3,2,3,2.67,3,3,4,3.33,1,1,3,1.67,4,4,5,4.33,4,3,4,3.67
+SYN-083,Équipe 5,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,5,5,5,5.00,3,4,4,3.67,3,3,4,3.33,3,4,3,3.33,2,5,3,3.33,4,5,3,4.00,3,4,3,3.33,4,4,4,4.00
+SYN-084,Équipe 5,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,5,5,5,5.00,4,5,5,4.67,4,3,3,3.33,4,5,3,4.00,4,4,3,3.67,4,2,4,3.33,5,5,4,4.67,5,5,5,5.00
+SYN-085,Équipe 5,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,4,4,3,3.67,3,2,3,2.67,3,2,2,2.33,2,3,2,2.33,3,3,3,3.00,2,3,1,2.00,4,4,3,3.67,2,3,3,2.67
+SYN-086,Équipe 5,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,4,3,3.33,3,4,3,3.33,2,2,2,2.00,2,4,2,2.67,4,4,3,3.67,3,3,2,2.67,4,4,4,4.00,4,3,4,3.67
+SYN-087,Équipe 5,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,5,5,3,4.33,5,5,5,5.00,4,4,3,3.67,2,3,3,2.67,3,4,3,3.33,3,2,2,2.33,4,5,4,4.33,4,4,4,4.00
+SYN-088,Équipe 5,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,2,4,4,3.33,3,4,3,3.33,1,2,1,1.33,4,4,4,4.00,4,4,3,3.67,3,2,2,2.33,3,3,4,3.33,3,3,3,3.00
+SYN-089,Équipe 5,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,4,3,3,3.33,4,3,3,3.33,2,4,2,2.67,3,3,4,3.33,4,3,2,3.00,3,3,4,3.33,3,5,3,3.67,4,5,4,4.33
+SYN-090,Équipe 5,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,5,4,3,4.00,2,2,2,2.00,2,2,3,2.33,4,3,2,3.00,3,3,4,3.33,4,2,4,3.33,3,4,4,3.67,3,2,3,2.67
+SYN-091,Équipe 5,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,5,4,4,4.33,5,5,5,5.00,,4,3,3.50,3,2,2,2.33,5,5,5,5.00,4,4,3,3.67,5,5,5,5.00,4,5,5,4.67
+SYN-092,Équipe 5,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,5,3,3,3.67,3,3,3,3.00,4,4,3,3.67,3,4,3,3.33,4,4,5,4.33,4,3,4,3.67,4,5,4,4.33,,3,4,3.50
+SYN-093,Équipe 5,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,4,3,4,3.67,2,3,3,2.67,3,4,2,3.00,4,4,4,4.00,2,3,2,2.33,4,3,3,3.33,4,5,3,4.00,3,3,4,3.33
+SYN-094,Équipe 5,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,5,4,4.00,4,3,5,4.00,4,,4,4.00,2,3,3,2.67,5,5,4,4.67,4,3,3,3.33,5,4,5,4.67,5,4,4,4.33
+SYN-095,Équipe 5,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,2,2,2.33,3,5,4,4.00,3,3,3,3.00,3,4,4,3.67,4,3,3,3.33,2,2,2,2.00,5,4,3,4.00,3,,5,4.00
+SYN-096,Équipe 5,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,3,4,3.33,4,3,4,3.67,2,2,4,2.67,2,4,2,2.67,3,3,3,3.00,2,2,2,2.00,4,4,,4.00,3,4,3,3.33
+SYN-097,Équipe 5,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,3,2,2.67,1,1,1,1.00,1,1,2,1.33,2,2,1,1.67,3,3,2,2.67,1,1,1,1.00,2,4,2,2.67,1,1,1,1.00
+SYN-098,Équipe 5,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,1,2,3,2.00,3,4,3,3.33,3,3,1,2.33,1,1,1,1.00,3,2,3,2.67,3,2,2,2.33,4,2,4,3.33,2,2,3,2.33
+SYN-099,Équipe 5,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,4,5,4,4.33,4,5,5,4.67,3,4,3,3.33,2,3,2,2.33,4,5,5,4.67,4,4,3,3.67,4,4,4,4.00,5,5,5,5.00
+SYN-100,Équipe 5,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,5,4,5,4.67,5,4,3,4.00,2,4,5,3.67,3,3,3,3.00,3,5,5,4.33,3,4,4,3.67,5,5,5,5.00,4,5,4,4.33
+SYN-101,Équipe 6,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,2,2,4,2.67,2,2,2,2.00,2,1,1,1.33,2,2,2,2.00,4,3,3,3.33,3,2,3,2.67,3,2,3,2.67,4,3,3,3.33
+SYN-102,Équipe 6,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,4,4,4,4.00,4,2,3,3.00,2,2,4,2.67,3,3,5,3.67,3,4,2,3.00,4,4,4,4.00,2,4,4,3.33
+SYN-103,Équipe 6,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,3,2,2.67,3,3,3,3.00,3,2,2,2.33,3,3,1,2.33,2,3,3,2.67,3,3,3,3.00,3,2,1,2.00,4,4,5,4.33
+SYN-104,Équipe 6,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,4,4,4,4.00,4,4,3,3.67,3,2,3,2.67,3,2,3,2.67,3,3,2,2.67,2,4,3,3.00,3,3,4,3.33
+SYN-105,Équipe 6,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,1,2,2.00,2,2,2,2.00,2,3,1,2.00,3,2,1,2.00,3,4,3,3.33,2,2,2,2.00,4,3,2,3.00,3,2,3,2.67
+SYN-106,Équipe 6,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,2,4,3.00,4,4,5,4.33,1,2,1,1.33,,3,3,3.00,3,4,3,3.33,2,2,2,2.00,3,2,2,2.33,3,3,4,3.33
+SYN-107,Équipe 6,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,4,5,4,4.33,4,4,5,4.33,4,4,3,3.67,3,4,4,3.67,3,2,3,2.67,4,5,4,4.33,4,5,4,4.33,5,5,4,4.67
+SYN-108,Équipe 6,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,2,3,4,3.00,3,3,,3.00,3,4,5,4.00,2,3,2,2.33,3,4,3,3.33,2,4,2,2.67,4,3,4,3.67,3,3,2,2.67
+SYN-109,Équipe 6,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,2,3,5,3.33,4,2,4,3.33,2,3,2,2.33,3,3,3,3.00,3,2,3,2.67,3,3,,3.00,3,2,3,2.67,4,4,5,4.33
+SYN-110,Équipe 6,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,3,3,3,3.00,2,3,,2.50,2,4,3,3.00,4,5,5,4.67,,,2,,4,4,4,4.00,3,3,2,2.67
+SYN-111,Équipe 6,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,4,5,5,4.67,5,4,5,4.67,4,4,3,3.67,4,3,,3.50,5,4,4,4.33,4,4,4,4.00,4,4,5,4.33,5,4,,4.50
+SYN-112,Équipe 6,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,5,4,4.00,5,5,5,5.00,5,4,4,4.33,2,2,3,2.33,4,3,4,3.67,2,3,4,3.00,4,5,5,4.67,3,5,5,4.33
+SYN-113,Équipe 6,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,5,2,4,3.67,4,3,3,3.33,3,3,4,3.33,3,2,3,2.67,3,4,3,3.33,4,4,4,4.00,4,3,4,3.67,5,4,4,4.33
+SYN-114,Équipe 6,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,4,4,5,4.33,4,3,4,3.67,2,1,1,1.33,2,3,2,2.33,3,4,2,3.00,4,3,3,3.33,3,3,3,3.00,2,3,,2.50
+SYN-115,Équipe 6,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,2,2,2.33,2,3,3,2.67,2,2,2,2.00,2,1,1,1.33,3,2,3,2.67,3,1,2,2.00,2,2,2,2.00,2,2,3,2.33
+SYN-116,Équipe 6,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,3,4,4,3.67,4,3,4,3.67,2,3,2,2.33,3,3,3,3.00,4,4,4,4.00,,3,2,2.50,3,2,4,3.00,3,3,3,3.00
+SYN-117,Équipe 6,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,4,4,3,3.67,4,5,4,4.33,4,3,4,3.67,4,4,2,3.33,4,5,4,4.33,4,3,5,4.00,4,4,5,4.33,3,4,5,4.00
+SYN-118,Équipe 6,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,2,4,3,3.00,4,5,4,4.33,2,3,1,2.00,2,1,2,1.67,2,4,3,3.00,2,1,3,2.00,,2,3,2.50,1,3,4,2.67
+SYN-119,Équipe 6,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,2,2,2,2.00,3,2,1,2.00,3,3,2,2.67,1,2,2,1.67,3,3,3,3.00,1,3,3,2.33,2,3,3,2.67,2,2,1,1.67
+SYN-120,Équipe 6,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Support,Non,Simulée,Oui,Non,Fictif,60,2,4,5,3.67,3,2,2,2.33,3,4,3,3.33,2,2,2,2.00,3,3,3,3.00,1,3,3,2.33,3,3,3,3.00,3,3,3,3.00
+SYN-121,Équipe 7,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,4,2,3,3.00,5,5,4,4.67,5,4,4,4.33,4,5,3,4.00,2,3,4,3.00,4,3,5,4.00,3,4,4,3.67,5,5,5,5.00
+SYN-122,Équipe 7,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,5,5,5,5.00,4,4,5,4.33,5,5,4,4.67,5,5,5,5.00,4,4,5,4.33,5,5,3,4.33,5,5,5,5.00,4,4,5,4.33
+SYN-123,Équipe 7,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,4,3,4,3.67,3,4,5,4.00,3,4,4,3.67,4,5,4,4.33,4,4,3,3.67,4,4,4,4.00,4,5,4,4.33,4,4,4,4.00
+SYN-124,Équipe 7,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,5,4,4,4.33,3,5,4,4.00,5,4,4,4.33,3,3,4,3.33,4,5,5,4.67,4,3,5,4.00,,4,4,4.00,4,4,3,3.67
+SYN-125,Équipe 7,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,2,,2,2.00,1,1,1,1.00,1,1,2,1.33,3,3,2,2.67,2,2,3,2.33,2,2,,2.00,2,3,2,2.33,4,2,2,2.67
+SYN-126,Équipe 7,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,3,4,3.33,3,4,4,3.67,4,5,5,4.67,4,5,3,4.00,4,3,4,3.67,3,3,5,3.67,4,4,3,3.67,5,,4,4.50
+SYN-127,Équipe 7,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,1,2,3,2.00,5,3,3,3.67,2,4,3,3.00,1,2,1,1.33,2,1,3,2.00,,3,4,3.50,3,2,2,2.33,4,3,2,3.00
+SYN-128,Équipe 7,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,5,3,5,4.33,3,3,3,3.00,5,4,4,4.33,4,3,2,3.00,3,2,3,2.67,4,3,2,3.00,3,3,3,3.00,3,3,2,2.67
+SYN-129,Équipe 7,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,2,3,3,2.67,1,3,2,2.00,2,3,3,2.67,2,1,1,1.33,4,2,2,2.67,2,2,2,2.00,3,2,3,2.67,2,2,3,2.33
+SYN-130,Équipe 7,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,2,3,2.67,3,3,2,2.67,2,2,2,2.00,2,1,2,1.67,2,2,2,2.00,,2,3,2.50,2,2,1,1.67,3,2,3,2.67
+SYN-131,Équipe 7,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,4,3,2,3.00,3,4,4,3.67,4,2,3,3.00,1,2,3,2.00,4,4,3,3.67,3,,5,4.00,2,1,2,1.67
+SYN-132,Équipe 7,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,2,2,3,2.33,2,2,3,2.33,4,3,3,3.33,3,2,3,2.67,3,2,3,2.67,3,4,3,3.33,3,4,4,3.67,5,2,,3.50
+SYN-133,Équipe 7,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,4,4,3,3.67,4,3,5,4.00,4,5,4,4.33,3,5,4,4.00,5,4,4,4.33,4,4,4,4.00,3,3,3,3.00,3,4,3,3.33
+SYN-134,Équipe 7,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,5,5,3,4.33,3,4,4,3.67,3,5,4,4.00,3,2,2,2.33,2,,4,3.00,3,4,4,3.67,4,3,5,4.00,5,4,4,4.33
+SYN-135,Équipe 7,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,1,2,2.00,1,2,2,1.67,3,3,4,3.33,2,3,3,2.67,3,2,3,2.67,3,2,3,2.67,3,3,3,3.00,2,2,3,2.33
+SYN-136,Équipe 7,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,4,4,3.67,4,4,4,4.00,3,3,4,3.33,4,4,4,4.00,3,4,5,4.00,4,4,4,4.00,4,3,3,3.33,4,5,4,4.33
+SYN-137,Équipe 7,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,3,2,2.67,4,4,3,3.67,3,,4,3.50,3,4,3,3.33,3,3,3,3.00,5,3,4,4.00,5,4,5,4.67,4,5,3,4.00
+SYN-138,Équipe 7,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,5,4,4,4.33,4,4,4,4.00,4,4,4,4.00,4,4,5,4.33,4,4,4,4.00,4,5,4,4.33,4,4,5,4.33,4,5,3,4.00
+SYN-139,Équipe 7,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,4,2,3.00,3,3,2,2.67,4,4,4,4.00,4,3,4,3.67,,2,4,3.00,4,2,2,2.67,3,3,2,2.67,4,3,4,3.67
+SYN-140,Équipe 7,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,5,4,4,4.33,4,3,3,3.33,4,4,4,4.00,4,5,3,4.00,5,3,4,4.00,4,5,3,4.00,4,4,4,4.00,3,3,4,3.33
+SYN-141,Équipe 8,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,2,3,3,2.67,2,3,2,2.33,4,3,3,3.33,4,3,3,3.33,3,4,4,3.67,3,3,2,2.67,3,3,2,2.67,3,3,2,2.67
+SYN-142,Équipe 8,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,4,3,4,3.67,3,4,2,3.00,4,3,2,3.00,3,5,4,4.00,3,4,3,3.33,3,,3,3.00,3,3,3,3.00,4,3,3,3.33
+SYN-143,Équipe 8,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,2,1,2,1.67,2,2,1,1.67,2,2,2,2.00,3,3,3,3.00,2,2,3,2.33,2,2,3,2.33,4,3,4,3.67
+SYN-144,Équipe 8,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,4,3,4,3.67,1,2,3,2.00,4,3,3,3.33,3,5,4,4.00,4,2,3,3.00,4,3,4,3.67,3,3,4,3.33,2,3,3,2.67
+SYN-145,Équipe 8,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,4,4,5,4.33,4,4,3,3.67,2,4,4,3.33,,3,4,3.50,5,4,3,4.00,5,4,4,4.33,4,4,4,4.00,,4,4,4.00
+SYN-146,Équipe 8,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,,2,3,2.50,3,3,3,3.00,4,3,3,3.33,3,2,3,2.67,,,3,,,2,3,2.50,3,3,1,2.33,4,3,3,3.33
+SYN-147,Équipe 8,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,5,4,4,4.33,3,3,4,3.33,3,3,3,3.00,5,5,4,4.67,3,3,4,3.33,3,4,3,3.33,3,3,3,3.00,4,5,4,4.33
+SYN-148,Équipe 8,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,5,3,4,4.00,3,3,3,3.00,3,3,3,3.00,3,3,3,3.00,4,3,1,2.67,1,3,3,2.33,3,3,4,3.33,3,3,3,3.00
+SYN-149,Équipe 8,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,3,3,3,3.00,2,3,4,3.00,4,4,5,4.33,3,3,4,3.33,3,4,3,3.33,3,4,5,4.00,3,4,2,3.00
+SYN-150,Équipe 8,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,4,3,3.33,4,4,2,3.33,4,3,3,3.33,1,1,2,1.33,2,3,,2.50,,4,3,3.50,2,3,3,2.67,2,2,2,2.00
+SYN-151,Équipe 8,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,5,4,4.00,3,3,3,3.00,5,4,3,4.00,5,4,3,4.00,2,3,4,3.00,3,2,4,3.00,3,2,4,3.00,2,3,4,3.00
+SYN-152,Équipe 8,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,2,4,2,2.67,3,4,4,3.67,4,3,3,3.33,4,4,3,3.67,3,3,3,3.00,4,5,4,4.33,4,5,4,4.33,4,3,3,3.33
+SYN-153,Équipe 8,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,4,4,4,4.00,4,5,4,4.33,4,3,3,3.33,5,4,5,4.67,3,4,3,3.33,5,3,5,4.33,4,4,5,4.33,5,,5,5.00
+SYN-154,Équipe 8,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,,4,5,4.50,4,4,3,3.67,3,4,3,3.33,,2,4,3.00,4,3,5,4.00,4,4,3,3.67,3,2,3,2.67,4,4,5,4.33
+SYN-155,Équipe 8,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,5,5,4,4.67,4,3,3,3.33,3,4,5,4.00,5,5,5,5.00,5,4,3,4.00,5,4,3,4.00,5,4,4,4.33,5,4,5,4.67
+SYN-156,Équipe 8,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,4,4,5,4.33,3,2,3,2.67,3,3,3,3.00,5,5,5,5.00,3,4,4,3.67,3,3,3,3.00,4,3,4,3.67,4,4,5,4.33
+SYN-157,Équipe 8,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,4,5,4.00,5,4,3,4.00,5,5,5,5.00,5,5,4,4.67,2,4,4,3.33,5,4,5,4.67,5,4,2,3.67,4,5,3,4.00
+SYN-158,Équipe 8,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,4,4,5,4.33,3,2,4,3.00,4,4,5,4.33,4,4,3,3.67,5,3,3,3.67,4,5,4,4.33,3,4,3,3.33,5,5,3,4.33
+SYN-159,Équipe 8,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,4,,4,4.00,3,4,4,3.67,4,3,4,3.67,4,3,2,3.00,3,4,2,3.00,4,3,4,3.67,2,4,3,3.00,3,4,4,3.67
+SYN-160,Équipe 8,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,4,4,3.67,4,5,5,4.67,3,4,3,3.33,4,3,3,3.33,3,3,2,2.67,3,3,2,2.67,3,3,4,3.33,3,2,5,3.33
+SYN-161,Équipe 9,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,3,5,3.67,5,3,3,3.67,4,4,4,4.00,4,4,3,3.67,,2,3,2.50,4,,4,4.00,5,4,3,4.00,4,5,4,4.33
+SYN-162,Équipe 9,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,4,3,3.33,4,4,4,4.00,3,3,3,3.00,4,3,3,3.33,2,1,3,2.00,2,4,4,3.33,,2,3,2.50,2,2,3,2.33
+SYN-163,Équipe 9,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,5,4,4,4.33,4,4,4,4.00,5,5,3,4.33,2,3,4,3.00,4,5,4,4.33,3,4,,3.50,5,5,4,4.67,4,4,5,4.33
+SYN-164,Équipe 9,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,2,3,4,3.00,3,4,2,3.00,3,4,3,3.33,4,3,2,3.00,3,4,2,3.00,2,1,2,1.67,3,5,3,3.67
+SYN-165,Équipe 9,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,4,5,4,4.33,4,3,5,4.00,4,4,,4.00,,4,5,4.50,3,4,4,3.67,4,4,3,3.67,4,5,5,4.67,4,3,2,3.00
+SYN-166,Équipe 9,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,3,3,3,3.00,3,3,4,3.33,3,3,2,2.67,1,2,2,1.67,2,1,3,2.00,3,3,3,3.00,2,4,3,3.00
+SYN-167,Équipe 9,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,4,4,4,4.00,3,3,3,3.00,4,4,3,3.67,4,3,3,3.33,4,3,5,4.00,3,4,3,3.33,3,3,4,3.33,5,4,5,4.67
+SYN-168,Équipe 9,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,5,4,5,4.67,3,5,4,4.00,5,4,4,4.33,4,4,5,4.33,4,5,5,4.67,4,3,5,4.00,5,5,4,4.67,4,5,5,4.67
+SYN-169,Équipe 9,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,4,5,3,4.00,4,3,2,3.00,3,4,4,3.67,4,5,4,4.33,3,3,3,3.00,4,5,3,4.00,3,4,3,3.33,3,3,3,3.00
+SYN-170,Équipe 9,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,4,3,4,3.67,4,4,5,4.33,5,5,5,5.00,4,4,4,4.00,4,4,5,4.33,4,5,4,4.33,5,3,5,4.33,3,4,5,4.00
+SYN-171,Équipe 9,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,4,5,5,4.67,5,5,5,5.00,4,4,4,4.00,4,4,4,4.00,4,5,4,4.33,3,5,4,4.00,5,4,5,4.67,4,4,4,4.00
+SYN-172,Équipe 9,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,1,3,3,2.33,2,3,2,2.33,3,4,4,3.67,4,4,4,4.00,3,3,3,3.00,2,3,4,3.00,3,4,4,3.67,2,4,2,2.67
+SYN-173,Équipe 9,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,3,2,4,3.00,2,4,3,3.00,4,3,3,3.33,3,,4,3.50,5,4,3,4.00,2,,4,3.00,2,2,3,2.33
+SYN-174,Équipe 9,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,2,2,3,2.33,2,2,3,2.33,2,1,2,1.67,4,3,4,3.67,2,3,2,2.33,2,3,,2.50,3,3,4,3.33,3,3,2,2.67
+SYN-175,Équipe 9,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,5,4,3,4.00,4,4,5,4.33,5,4,4,4.33,4,3,5,4.00,4,5,5,4.67,3,5,2,3.33,4,4,4,4.00,4,5,5,4.67
+SYN-176,Équipe 9,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,4,4,3.67,3,3,4,3.33,4,2,3,3.00,4,3,4,3.67,4,,4,4.00,4,4,4,4.00,3,3,3,3.00,4,5,4,4.33
+SYN-177,Équipe 9,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,3,2,2.67,3,4,,3.50,3,3,3,3.00,3,3,3,3.00,4,4,4,4.00,2,3,3,2.67,4,3,3,3.33,2,3,2,2.33
+SYN-178,Équipe 9,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,3,4,4,3.67,2,4,3,3.00,3,4,3,3.33,2,3,2,2.33,2,3,3,2.67,2,1,2,1.67,4,3,3,3.33
+SYN-179,Équipe 9,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,2,3,2,2.33,2,3,1,2.00,3,2,3,2.67,3,3,2,2.67,2,1,2,1.67,2,3,3,2.67,2,1,1,1.33,2,2,1,1.67
+SYN-180,Équipe 9,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Produit,Non,Simulée,Oui,Non,Fictif,60,4,4,4,4.00,3,4,4,3.67,5,2,5,4.00,4,3,3,3.33,3,3,3,3.00,5,3,3,3.67,4,3,5,4.00,5,5,5,5.00
+SYN-181,Équipe 10,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,2,3,3,2.67,2,3,2,2.33,2,2,2,2.00,3,2,3,2.67,3,1,3,2.33,2,3,4,3.00,1,3,2,2.00,4,2,3,3.00
+SYN-182,Équipe 10,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,5,4,4,4.33,4,,5,4.50,,5,5,5.00,4,3,4,3.67,5,4,5,4.67,5,5,5,5.00,5,5,5,5.00,5,5,5,5.00
+SYN-183,Équipe 10,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,5,5,5,5.00,4,4,5,4.33,5,5,5,5.00,5,5,5,5.00,4,5,5,4.67,5,5,5,5.00,4,5,4,4.33,5,5,5,5.00
+SYN-184,Équipe 10,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,3,2,3,2.67,3,4,4,3.67,2,2,1,1.67,2,3,3,2.67,4,4,4,4.00,2,2,3,2.33,2,2,1,1.67
+SYN-185,Équipe 10,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,5,5,4,4.67,4,5,4,4.33,3,3,3,3.00,4,5,5,4.67,,4,5,4.50,5,4,4,4.33,5,5,5,5.00,5,4,4,4.33
+SYN-186,Équipe 10,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,4,4,3.67,3,4,3,3.33,4,4,4,4.00,4,4,5,4.33,4,,3,3.50,5,5,3,4.33,4,4,5,4.33,3,4,3,3.33
+SYN-187,Équipe 10,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,,2,2,2.00,2,2,2,2.00,3,2,3,2.67,2,3,2,2.33,3,2,4,3.00,3,3,2,2.67,2,2,,2.00,,3,3,3.00
+SYN-188,Équipe 10,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,4,3,2,3.00,3,2,,2.50,2,,3,2.50,3,3,3,3.00,3,2,2,2.33,2,3,3,2.67,4,2,2,2.67
+SYN-189,Équipe 10,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,1,2,,1.50,3,2,3,2.67,2,3,3,2.67,3,3,3,3.00,2,3,3,2.67,3,1,4,2.67,4,2,3,3.00,3,4,3,3.33
+SYN-190,Équipe 10,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,5,5,4,4.67,3,4,3,3.33,5,4,4,4.33,5,5,5,5.00,4,4,3,3.67,5,5,5,5.00,4,3,5,4.00,,3,3,3.00
+SYN-191,Équipe 10,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,5,4,3,4.00,2,3,4,3.00,2,4,3,3.00,1,4,3,2.67,4,4,4,4.00,4,4,4,4.00,4,5,3,4.00,2,3,3,2.67
+SYN-192,Équipe 10,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,4,1,2.67,2,2,2,2.00,2,3,1,2.00,4,3,3,3.33,5,3,3,3.67,,3,3,3.00,4,3,4,3.67,3,2,3,2.67
+SYN-193,Équipe 10,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,3,4,3.33,4,3,3,3.33,3,4,3,3.33,4,4,3,3.67,,3,3,3.00,4,4,4,4.00,2,3,4,3.00,3,4,2,3.00
+SYN-194,Équipe 10,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,4,3,3,3.33,2,3,3,2.67,2,3,3,2.67,4,3,5,4.00,3,3,3,3.00,4,2,4,3.33,2,3,3,2.67,3,2,3,2.67
+SYN-195,Équipe 10,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,3,2,1,2.00,4,3,4,3.67,5,3,3,3.67,2,2,2,2.00,3,4,3,3.33,3,3,2,2.67,2,3,2,2.33
+SYN-196,Équipe 10,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,4,4,3,3.67,3,4,4,3.67,4,4,4,4.00,4,4,2,3.33,4,4,3,3.67,4,4,4,4.00,3,4,3,3.33,,4,5,4.50
+SYN-197,Équipe 10,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,5,4,5,4.67,4,5,5,4.67,5,4,4,4.33,3,3,4,3.33,3,3,4,3.33,4,3,3,3.33,4,4,4,4.00,3,3,,3.00
+SYN-198,Équipe 10,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,4,3,5,4.00,,3,2,2.50,4,3,3,3.33,5,3,4,4.00,3,2,2,2.33,3,2,2,2.33,3,3,3,3.00,,3,2,2.50
+SYN-199,Équipe 10,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,5,5,,5.00,4,5,4,4.33,4,4,4,4.00,3,3,3,3.00,4,4,3,3.67,4,2,4,3.33,4,4,5,4.33,4,4,3,3.67
+SYN-200,Équipe 10,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,4,,3,3.50,2,4,2,2.67,3,4,4,3.67,4,3,3,3.33,4,2,2,2.67,3,5,4,4.00,3,2,3,2.67,2,3,3,2.67
+SYN-201,Équipe 11,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,3,2,2.67,4,2,3,3.00,3,,4,3.50,4,3,3,3.33,2,3,4,3.00,3,3,2,2.67,3,2,3,2.67,3,3,3,3.00
+SYN-202,Équipe 11,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,3,4,3.33,2,3,3,2.67,3,2,4,3.00,2,2,2,2.00,4,2,3,3.00,4,3,4,3.67,4,3,3,3.33,2,3,4,3.00
+SYN-203,Équipe 11,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,3,2,2.67,1,2,3,2.00,4,2,4,3.33,2,4,4,3.33,4,3,4,3.67,4,3,3,3.33,3,3,3,3.00,4,4,3,3.67
+SYN-204,Équipe 11,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,4,2,4,3.33,,3,2,2.50,1,2,2,1.67,3,3,,3.00,3,4,3,3.33,3,4,2,3.00,3,3,3,3.00,3,2,3,2.67
+SYN-205,Équipe 11,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,5,3,3.67,3,5,4,4.00,4,5,4,4.33,3,4,4,3.67,3,4,4,3.67,2,4,2,2.67,3,5,3,3.67,5,4,5,4.67
+SYN-206,Équipe 11,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,4,3,3,3.33,4,5,4,4.33,3,4,4,3.67,4,4,3,3.67,3,4,4,3.67,5,4,5,4.67,3,3,3,3.00,3,3,4,3.33
+SYN-207,Équipe 11,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,,3,2,2.50,5,5,5,5.00,3,5,3,3.67,3,4,3,3.33,3,4,5,4.00,4,4,3,3.67,3,2,4,3.00,5,4,4,4.33
+SYN-208,Équipe 11,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,4,4,3,3.67,4,3,4,3.67,3,3,4,3.33,4,3,4,3.67,3,3,4,3.33,4,4,4,4.00,3,5,3,3.67,4,4,4,4.00
+SYN-209,Équipe 11,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,2,2,2.33,4,3,3,3.33,3,3,4,3.33,4,4,4,4.00,3,3,4,3.33,3,4,3,3.33,4,3,3,3.33,3,3,3,3.00
+SYN-210,Équipe 11,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,5,4,4.00,5,4,3,4.00,3,3,3,3.00,3,4,4,3.67,5,4,4,4.33,4,5,4,4.33,5,5,4,4.67,5,4,4,4.33
+SYN-211,Équipe 11,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,5,5,4.33,4,5,4,4.33,5,4,4,4.33,5,4,4,4.33,4,5,4,4.33,5,4,4,4.33,4,3,4,3.67,,5,5,5.00
+SYN-212,Équipe 11,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,2,5,3.33,4,3,3,3.33,2,3,,2.50,3,4,4,3.67,3,3,1,2.33,2,3,3,2.67,3,5,5,4.33,,4,3,3.50
+SYN-213,Équipe 11,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,4,4,4,4.00,4,4,3,3.67,2,2,2,2.00,2,1,2,1.67,3,2,2,2.33,2,3,3,2.67,3,4,3,3.33
+SYN-214,Équipe 11,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,4,3,3.33,3,3,4,3.33,3,2,4,3.00,3,2,3,2.67,3,3,3,3.00,3,2,3,2.67,3,1,3,2.33,3,3,,3.00
+SYN-215,Équipe 11,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,4,3,2,3.00,5,4,3,4.00,4,4,4,4.00,5,4,4,4.33,2,4,3,3.00,4,4,3,3.67,3,3,4,3.33,4,3,4,3.67
+SYN-216,Équipe 11,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,4,4,3.67,5,4,5,4.67,3,4,4,3.67,3,5,3,3.67,4,4,4,4.00,3,3,3,3.00,5,5,2,4.00,5,5,5,5.00
+SYN-217,Équipe 11,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,4,2,3.00,3,2,4,3.00,3,3,3,3.00,3,3,3,3.00,3,4,4,3.67,3,3,4,3.33,3,5,4,4.00,4,3,4,3.67
+SYN-218,Équipe 11,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,3,2,2.67,4,4,3,3.67,3,4,3,3.33,4,4,3,3.67,2,3,2,2.33,4,3,4,3.67,3,2,3,2.67,3,2,3,2.67
+SYN-219,Équipe 11,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,4,5,5,4.67,5,5,5,5.00,3,4,3,3.33,4,4,4,4.00,4,5,3,4.00,4,4,4,4.00,4,4,3,3.67,3,3,4,3.33
+SYN-220,Équipe 11,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,2,4,5,3.67,5,4,4,4.33,4,4,4,4.00,3,4,4,3.67,5,5,5,5.00,3,5,5,4.33,4,3,4,3.67,5,4,5,4.67
+SYN-221,Équipe 12,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,5,3,5,4.33,3,3,4,3.33,3,4,4,3.67,3,4,5,4.00,4,3,,3.50,3,,5,4.00,4,3,5,4.00,4,4,4,4.00
+SYN-222,Équipe 12,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,2,2,3,2.33,4,4,5,4.33,4,4,4,4.00,3,4,4,3.67,3,5,3,3.67,4,4,5,4.33,4,4,4,4.00,4,4,5,4.33
+SYN-223,Équipe 12,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,4,5,4.00,4,3,3,3.33,4,4,4,4.00,4,3,4,3.67,4,4,3,3.67,2,3,4,3.00,3,4,3,3.33,4,3,4,3.67
+SYN-224,Équipe 12,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,4,5,4,4.33,4,4,3,3.67,3,4,4,3.67,4,2,3,3.00,5,5,5,5.00,5,2,4,3.67,4,4,4,4.00,3,4,5,4.00
+SYN-225,Équipe 12,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,4,3,3.33,3,2,4,3.00,5,4,4,4.33,5,3,4,4.00,4,3,3,3.33,4,4,3,3.67,5,4,4,4.33,2,4,4,3.33
+SYN-226,Équipe 12,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,3,3,3,3.00,2,2,3,2.33,2,2,2,2.00,3,3,1,2.33,4,,3,3.50,2,4,3,3.00,2,2,2,2.00
+SYN-227,Équipe 12,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,4,3,3,3.33,3,3,3,3.00,3,3,2,2.67,3,3,3,3.00,3,2,3,2.67,4,3,2,3.00,3,3,5,3.67,3,4,3,3.33
+SYN-228,Équipe 12,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,2,1,2,1.67,1,2,1,1.33,2,2,2,2.00,2,2,3,2.33,3,3,2,2.67,,2,2,2.00,3,3,4,3.33,2,4,2,2.67
+SYN-229,Équipe 12,Site fictif,CDI,0,Collaborateur,0,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,4,4,2,3.33,2,2,4,2.67,3,3,3,3.00,3,3,3,3.00,4,4,4,4.00,2,3,3,2.67,4,4,4,4.00,4,3,4,3.67
+SYN-230,Équipe 12,Site fictif,CDI,1,Collaborateur,1,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,4,4,5,4.33,2,4,3,3.00,3,3,3,3.00,3,5,4,4.00,4,4,5,4.33,5,3,3,3.67,5,4,5,4.67,3,4,4,3.67
+SYN-231,Équipe 12,Site fictif,CDI,2,Collaborateur,2,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,4,4,4,4.00,3,4,4,3.67,4,4,3,3.67,3,4,3,3.33,3,5,5,4.33,3,4,4,3.67,3,4,5,4.00,3,4,,3.50
+SYN-232,Équipe 12,Site fictif,CDI,3,Collaborateur,3,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,3,2,2.67,2,2,2,2.00,1,1,1,1.00,2,3,2,2.33,2,2,2,2.00,,2,2,2.00,3,2,3,2.67,2,2,2,2.00
+SYN-233,Équipe 12,Site fictif,CDI,4,Collaborateur,0,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,4,4,4,4.00,5,3,5,4.33,4,4,4,4.00,3,4,3,3.33,3,3,3,3.00,3,3,4,3.33,1,2,2,1.67,3,4,3,3.33
+SYN-234,Équipe 12,Site fictif,CDI,5,Collaborateur,1,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,3,3,3.00,4,2,3,3.00,5,3,4,4.00,3,4,4,3.67,4,4,4,4.00,4,4,4,4.00,4,5,3,4.00,3,3,,3.00
+SYN-235,Équipe 12,Site fictif,CDI,6,Collaborateur,2,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,,5,4,4.50,5,4,5,4.67,4,5,5,4.67,4,5,,4.50,4,3,4,3.67,3,5,5,4.33,4,4,4,4.00,3,3,4,3.33
+SYN-236,Équipe 12,Site fictif,CDI,7,Collaborateur,3,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,2,2,2,2.00,2,4,3,3.00,2,1,2,1.67,1,2,2,1.67,2,2,1,1.67,2,1,2,1.67,2,1,1,1.33,3,3,2,2.67
+SYN-237,Équipe 12,Site fictif,CDI,8,Collaborateur,0,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,2,2,2,2.00,3,3,1,2.33,2,4,3,3.00,2,3,3,2.67,2,2,2,2.00,3,2,3,2.67,3,1,2,2.00,2,3,1,2.00
+SYN-238,Équipe 12,Site fictif,CDI,9,Collaborateur,1,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,3,2,2.67,4,3,4,3.67,3,3,2,2.67,2,2,1,1.67,3,3,3,3.00,3,4,5,4.00,4,4,3,3.67,4,,4,4.00
+SYN-239,Équipe 12,Site fictif,CDI,10,Collaborateur,2,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,3,5,5,4.33,4,3,3,3.33,4,3,4,3.67,4,5,5,4.67,4,4,3,3.67,5,4,4,4.33,4,3,4,3.67,3,4,3,3.33
+SYN-240,Équipe 12,Site fictif,CDI,11,Collaborateur,3,Non renseigné,Mixte,Commercial,Non,Simulée,Oui,Non,Fictif,60,5,3,3,3.67,4,4,4,4.00,4,4,4,4.00,4,4,4,4.00,5,5,4,4.67,4,5,5,4.67,3,4,5,4.00,4,5,5,4.67

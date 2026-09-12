@@ -72,7 +72,7 @@ const parseCSV = (csvContent) => {
 const parseNumericValue = (value) => {
   if (typeof value === 'number') return value
   if (typeof value !== 'string') return Number.NaN
-  return Number.parseFloat(value.trim().replace(',', '.'))
+  return value.trim() ? Number(value.trim().replace(',', '.')) : Number.NaN
 }
 
 const parseXY = (xyContent) => {
@@ -89,7 +89,7 @@ const parseXY = (xyContent) => {
 
   return dataRows
     .map((row) => [parseNumericValue(row[0]), parseNumericValue(row[1])])
-    .filter(([x, y]) => Number.isFinite(x) && Number.isFinite(y))
+
 }
 
 const getColumnData = (index, formattedCSV) => {
