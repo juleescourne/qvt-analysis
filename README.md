@@ -162,6 +162,6 @@ front-end.
   un léger décalage, pas une ACP.
 
 Régénérer les données : `python scripts/generate_survey_demo.py`.
-Vérifier la sélection : `node --test tests/survey.test.mjs`.
+Vérifier la sélection : `node --test tests/survey.test.js`.
 Les libellés et corrélations simulées sont pédagogiques ; ce questionnaire n'est
 pas une échelle validée et ne décrit aucune organisation réelle.
