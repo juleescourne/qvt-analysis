@@ -53,8 +53,7 @@ Chaque visage est un répondant. Quatre catégories d'enquête, choisies par
 l'utilisateur, sont encodées dans les **yeux**, la **forme**, la **couleur** et la
 **bouche**. La position vient d'une projection 2D fournie séparément.
 
-L'idée repose sur un fait cognitif : l'œil compare des visages bien mieux que des
-colonnes de chiffres.
+Les visages proposent un encodage visuel de plusieurs dimensions. Le projet ne mesure pas leur efficacité par rapport à des graphiques classiques.
 
 **Sa limite, documentée plutôt que passée sous silence** : l'œil n'est pas également
 sensible à tous les traits. Un changement de bouche saute aux yeux davantage qu'un
@@ -128,7 +127,7 @@ une ligne chacun, pour la vue Chernoff.
 - **Le nombre de colonnes de métadonnées est une constante** (`INDEX_FIRST_QUESTION
   = 16`) : un export de structure différente décalerait la détection des catégories.
 - **625 images PNG pré-générées** (7,5 Mo) pour couvrir les combinaisons de traits.
-  Les générer en SVG diviserait le poids du dépôt par vingt.
+  Une génération vectorielle serait une piste à mesurer ; aucun gain de poids n’est démontré ici.
 - **Tests ciblés** : quatre tests couvrent les filtres croisés, les valeurs invalides
   et la cohérence du jeu synthétique. La couverture ne constitue pas une validation
   psychométrique du questionnaire.
